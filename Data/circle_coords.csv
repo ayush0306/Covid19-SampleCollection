@@ -1,31 +1,31 @@
-ID,Circle,Latitude,Longitude
-1, Kapra,17.40643,78.46254
-2, Chilukanagar,17.36816,78.53827
-3, Nagole,17.33051,78.58097
-4, Vanasthalipuram,17.3939,78.4529
-5, Saroornagar,17.40643,78.46254
-6, Malakpet(Erstwhile IV A),17.40643,78.46254
-7, Rein Bazar,17.40643,78.46254
-8, Lalithbagh,17.36444,78.47523
-9, Pathergatti,17.40643,78.46254
-10, Falakunuma,17.30861,78.41215
-11, Rajendra Nagar,17.39465,78.44054
-12, Mehdipatnam Erstwhile Circle VII A,17.40643,78.46254
-13, Ziaguda,17.37106,78.46671
-14, Begum Bazar,17.4106,78.46383
-15, Khairtabad,17.40643,78.46254
-16, Venkateshwara Colony,17.39726,78.51692
-17, Amberpet Erstwhile Circle 9B,17.41134,78.51902
-18, Adikmet,17.46078,78.53543
-19,Neredmet,17.44611,78.51865
-20, Addagutta,17.42797,78.49422
-21, Bansilalpet,17.4363,78.43259
-22,Yousufguda Erstwhile Circle 10C,17.4623,78.36682
-23, Kondapur,17.45677,78.38647
-24, Madhapur,17.40643,78.46254
-25, Bharathinagar(P),17.46664,78.42912
-26, Moosapet Erstwhile Circle 14A,17.4688,78.49007
-27, Old Bowenpally,17.25091,78.37439
-28, Rangareddy nagar,17.40643,78.46254
-29,Gajula Ramaram,17.40643,78.46254
-30,Macha Bollaram,,
+Circle,Latitude,Longitude
+ Kapra,17.489,78.568
+ Uppal,17.398,78.558
+ Hayathnagar (Erst while 3A),17.327,78.605
+ LB Nagar Erstwhile 3B,17.346,78.552
+ Saroornagar(Erstwhile 3C),17.353,78.536
+ Malakpet(Erstwhile IV A),17.372,78.491
+ Santhoshnagar(Erstwhile IV B),17.347,78.508
+ Chandrayangutta(Erstwhile IV C),17.305,78.474
+ Charminar Erstwhile Circle V A,17.362,78.475
+ Falakunuma Erstwhile Circle V B,17.332,78.470
+ Rajendra Nagar Erstwhile Circle VI,17.322,78.402
+ Mehdipatnam Erstwhile Circle VII A,17.396,78.431
+ Karwan Erstwhile Circle VII B,17.379,78.437
+ Goshamahal Erstwhile Circle VIII,17.379,78.468
+ Khairatabad Erstwhile Circle 10A,17.411,78.465
+ Jubilee Hills Erstwhile Circle 10B,17.433,78.407
+ Amberpet Erstwhile Circle 9B,17.392,78.516
+ Musheerabad Erstwhile Circle 9A,17.420,78.499
+ Malkajgiri Erstwhile Circle 17,17.450,78.532
+ Secunderabad Division Erstwhile Circle 18A,17.440,78.498
+ Begumpet Erstwhile Circle 18B,17.445,78.466
+Yousufguda Erstwhile Circle 10C,17.434,78.427
+Serilingampally Erstwhile Circle 11,17.484,78.316
+ Chandanagar Erstwhile Circle 12,17.493,78.328
+ Ramachandra Puram / Patancheru Erstwhile Circle 13,17.529,78.267
+ Moosapet Erstwhile Circle 14A,17.467,78.425
+ Kukatpally Erstwhile Circle 14B,17.488,78.395
+ Quthbullapur Erstwhile Circle 15A,17.498,78.464
+ Gajula Ramaram Erstwhile Circle 15B,17.535,78.402
+ Alwal Erstwhile Circle 16,17.497,78.507
