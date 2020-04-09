@@ -1,10 +1,10 @@
 import pandas as pd
 import math
 
-scenario_name = "as_is"
+scenario_name = "pooled"
 
 def collect_home_sample(load_val,time_val,params):
-	transport_time = load_val*time_val
+	transport_time = time_val
 	collection_time = load_val*params['Time_SampleCollection']
 	within_time = load_val*params['Time_withinWard']
 	return math.ceil(transport_time+collection_time+within_time)

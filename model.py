@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 from utils import *
-from scenario_1 import *
+from scenario_2 import *
 from optimization import *
 from plots import *
 
@@ -32,7 +32,8 @@ columns = ['Demand','Low_Skill_FTE','High_Skill_FTE']
 req_resources = pd.DataFrame(n_fte,index=index,columns=columns)
 req_resources['Total_Skill_FTE'] = req_resources['Low_Skill_FTE']+req_resources['High_Skill_FTE']
 
-myPlot(req_resources[['Low_Skill_FTE','High_Skill_FTE']],'Skill-Wise Resource Requirement','capacity.png')
+myPlot(req_resources[['Low_Skill_FTE','High_Skill_FTE']],'Skill-Wise Resource Requirement',scenario_name+'.png')
+req_resources.to_excel("Output_Sheets/"+scenario_name+".xlsx")
 
 print(load)
 print(time_to_lab_2way)
