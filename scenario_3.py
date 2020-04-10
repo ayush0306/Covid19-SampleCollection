@@ -5,7 +5,7 @@ n_visits = 2
 scenario_name = str(n_visits)+"_visits"
 
 def collect_home_sample(load_val,time_val,params):
-	transport_time = n_visits*time_val
+	transport_time = time_val*min(n_visits,load_val)
 	collection_time = load_val*params['Time_SampleCollection']
 	within_time = load_val*params['Time_withinWard']
 	return math.ceil(transport_time+collection_time+within_time)

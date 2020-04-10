@@ -4,7 +4,7 @@ import math
 scenario_name = "pooled"
 
 def collect_home_sample(load_val,time_val,params):
-	transport_time = time_val
+	transport_time = time_val*min(load_val,1)
 	collection_time = load_val*params['Time_SampleCollection']
 	within_time = load_val*params['Time_withinWard']
 	return math.ceil(transport_time+collection_time+within_time)
